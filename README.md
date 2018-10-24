@@ -1,4 +1,4 @@
-# Bresehams-graphics
+# Bresenhams-graphics
 Implementation of Bresenham's algortihm in OpenGL for all the eight octants.
 
 ## OpenGL (GLUT) on linux(ubuntu)<br>
